@@ -36,7 +36,10 @@
     word-spacing: 2px;
   }
   .image{
-    width: 100% !important;
+    width: 70% !important;
+  }
+  .image2{
+    width: 70% !important;
   }
   .side{
     width: 100%;
@@ -52,7 +55,7 @@
     margin-left: 20% !important;
   }
   .center-image{
-    margin-top: 15% !important;
+    margin-top: 25% !important;
   }
   .rounded1{
     border-radius: 15px !important;
@@ -83,4 +86,10 @@
   }
   .my-center{
     margin-top: 50% !important;
+  }
+  .m-left{
+    margin-left: 13% !important;
+  }
+  .m-left-2{
+    margin-left: 14% !important;
   }
