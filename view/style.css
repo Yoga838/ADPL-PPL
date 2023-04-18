@@ -93,3 +93,36 @@
   .m-left-2{
     margin-left: 14% !important;
   }
+  .card{
+    width: 40%;
+    margin: 17% auto;
+    border-radius: 50px !important;
+
+  }
+  .button{
+    width: 120px;
+  }
+  .sidebar-left{
+    height: auto !important;
+  }
+  .circle{
+    width: 70px !important;
+    height: 70px !important;
+    background-color: black !important;
+    border-radius: 50%;
+  }
+  .btn-admin{
+    width: 300px;
+  }
+  .content{
+    overflow-x: hidden;
+  }
+  .button-edit img{
+    width: 25px;
+  }
+  .button-edit{
+    position: fixed;
+    width: 200px !important;
+    right: 4%;
+    bottom: 5%;
+  }

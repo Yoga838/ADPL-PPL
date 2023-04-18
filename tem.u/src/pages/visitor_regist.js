@@ -7,7 +7,7 @@ import Router from 'next/router';
 
 
 export default function visitor_regist() {
-// const regist = process.env.REGIST_USER;
+
 
 
 const [name, setName] = useState('');
